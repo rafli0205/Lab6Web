@@ -183,7 +183,7 @@ Tampilan akhir web setelah semua langkah diterapkan:
 
 ## Bukti Validasi Dokumen
 
-<img width="1920" height="1080" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/fa7b3ee1-1c02-4c7e-892d-d2f9b12be237" />
+<img width="1920" height="1017" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/cac6ae7a-66f1-4d2c-ad12-d2ef75c21968" />
 
 ---
 
